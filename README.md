@@ -12,6 +12,12 @@ The _log interceptor_ accepts a thunk, runs the thunk, returns the thunk's
  the given logger organized by log level.
 
 
+Requires
+---
+
+Racket 6.7 or newer
+
+
 Example
 ---
 
