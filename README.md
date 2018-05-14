@@ -42,5 +42,5 @@ Example
          (info
           .
           ("ricardo: f spotted a ricardo" "ricardo: f spotted a ricardo"))
-         (warning . ()))<Paste>
+         (warning . ()))
 ```
